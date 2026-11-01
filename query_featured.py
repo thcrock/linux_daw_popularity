@@ -53,8 +53,7 @@ def featured(rows, since, until, established_before):
                 'developer_first_added': first_added[row['developer']],
                 'plugins_before_cutoff': prior_count,
             })
-    results.sort(key=lambda r: (r['developer'].lower(), r['plugin'].lower()))
-    results.sort(key=lambda r: r['created'], reverse=True)
+    results.sort(key=lambda r: int(r['tranco_rank'] or 9999999), reverse=False)
     return results
 
 

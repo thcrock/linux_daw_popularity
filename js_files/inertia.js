@@ -1,0 +1,31 @@
+export default [
+    {
+        name: 'Granulizer',
+        developer: 'Inertia Sound Systems',
+        url: 'https://www.inertiasoundsystems.com/store/products/granulizer-2/',
+        image: 'https://www.inertiasoundsystems.com/media/cache/89/68/89680bd9f1f3b454646c9f8b3ccf1c31@1.5x.jpg',
+        price: '€ 80',
+        tags: ['synth', 'granular'],
+        formats: ['vst3', 'vst2', 'lv2'],
+        created: '2022-12-30',
+    },
+    {
+        name: 'Hinder',
+        developer: 'Inertia Sound Systems',
+        url: 'https://www.inertiasoundsystems.com/store/products/hinder/',
+        image: 'https://www.inertiasoundsystems.com/media/product_images/Screenshot_2022-05-13_at_4.51.54_PM_7UTrVsR.png',
+        price: '€ 40',
+        tags: ['effect', 'delay'],
+        formats: ['vst3', 'vst2', 'lv2'],
+        created: '2022-01-03',
+    },
+    {
+        name: 'Instinct',
+        developer: 'Inertia Sound Systems',
+        url: 'https://www.inertiasoundsystems.com/store/products/instinct/',
+        image: 'https://www.inertiasoundsystems.com/media/product_images/Screen_Shot_2019-06-17_at_9.24.54_PM.png',
+        price: '€ 60',
+        tags: ['effect', 'distortion', 'filter', 'saturation', 'tube'],
+        created: '2022-01-03',
+    },
+]

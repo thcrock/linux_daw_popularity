@@ -1,0 +1,97 @@
+const common = {
+    developer: 'WET VST',
+    formats: ['vst3'],
+}
+
+const apps = [
+    {
+        name: 'WetChorus',
+        description: 'Modern recreation of a classic 1970s guitar combo amp chorus circuit.',
+        url: 'https://wetvst.com/wetchorus/',
+        image: 'https://wetvst.com/img/wetchorus.png',
+        source: 'https://github.com/yonie/WetChorus',
+        price: 'No charge',
+        tags: ['effect', 'chorus'],
+        license: 'MIT',
+        created: '2026-10-22',
+    },
+    {
+        name: 'WetCompressor',
+        description: 'FET compressor with high-resolution metering and external sidechain.',
+        url: 'https://wetvst.com/wetcompressor/',
+        image: 'https://wetvst.com/img/wetcompressor.png',
+        source: 'https://github.com/yonie/WetCompressor',
+        price: 'No charge',
+        tags: ['effect', 'compressor', 'sidechain'],
+        license: 'MIT',
+        created: '2026-09-01',
+    },
+    {
+        name: 'WetDelay',
+        description: '80s studio delay with six delay times and tap tempo.',
+        url: 'https://wetvst.com/wetdelay/',
+        image: 'https://wetvst.com/img/wetdelay.png',
+        source: 'https://github.com/yonie/WetDelay',
+        price: 'No charge',
+        tags: ['effect', 'delay'],
+        license: 'MIT',
+        created: '2026-04-18',
+    },
+    {
+        name: 'WetEQ',
+        description: 'Four-band console EQ with high-pass, low-pass and input drive.',
+        url: 'https://wetvst.com/weteq/',
+        image: 'https://wetvst.com/img/weteq.png',
+        source: 'https://github.com/yonie/WetEQ',
+        price: 'No charge',
+        tags: ['effect', 'eq'],
+        license: 'MIT',
+        created: '2026-09-01',
+    },
+    {
+        name: 'WetPhones',
+        description: 'Reference mixes through hand-tuned speaker models.',
+        url: 'https://wetvst.com/wetphones/',
+        image: 'https://wetvst.com/img/wetphones.png',
+        price: '€ 10',
+        tags: ['tool', 'mastering'],
+        created: '2026-10-22',
+    },
+    {
+        name: 'WetReducer',
+        description: 'Creatively reduces fidelity by replacing audio bands with sine or square waves.',
+        url: 'https://wetvst.com/wetreducer/',
+        image: 'https://wetvst.com/img/wetreducer.png',
+        source: 'https://github.com/yonie/WetReducer',
+        price: 'No charge',
+        tags: ['effect', 'lofi'],
+        license: 'MIT',
+        created: '2026-10-22',
+    },
+    {
+        name: 'WetReverb',
+        description: 'Original reverberation effect with five programs.',
+        url: 'https://wetvst.com/wetreverb/',
+        image: 'https://wetvst.com/img/wetreverb.png',
+        source: 'https://github.com/yonie/WetReverb',
+        price: 'No charge',
+        tags: ['effect', 'reverb'],
+        license: 'MIT',
+        created: '2026-04-18',
+    },
+    {
+        name: 'WetWeld',
+        description: 'Professional all-in-one mastering chain.',
+        url: 'https://wetvst.com/wetweld/',
+        image: 'https://wetvst.com/img/wetweld-hero.png',
+        price: '€ 15',
+        tags: ['effect', 'mastering'],
+        created: '2026-10-22',
+    },
+]
+
+export default {
+    apps: apps.map(app => {
+        return { ...common, ...app }
+    }),
+}

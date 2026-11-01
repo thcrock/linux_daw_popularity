@@ -1,0 +1,158 @@
+const developer = {
+    name: 'Wasted Audio',
+    trimImages: 1,
+    crawl: {
+        engine: 'fetch',
+        tasks: [
+            {
+                target: 'version',
+                el: '.releasename .releasedata',
+                match: 'v(\\d\\.\\d(\\.\\d)?)',
+            },
+            {
+                target: 'price',
+                currency: '€',
+                el: '.releasename .releasedata',
+                match: '\\€(\\d{1,}(\\.\\d{1,})?)',
+            },
+            {
+                target: 'sale',
+                currency: '€',
+                el: '.releasename .releasedata',
+                matchAll: ['\\€(\\d{1,}(\\.\\d{1,})?)', 1],
+            },
+        ],
+    },
+}
+
+const common = {
+    developer: developer.name,
+    license: 'GPL-3.0',
+    formats: ['clap', 'vst3', 'vst2', 'lv2'],
+}
+
+const apps = [
+    {
+        name: 'WSTD EQ',
+        url: 'https://wasted.audio/software/wstd_eq',
+        image: 'https://wasted.audio/data/software/wstd_eq/WSTD_EQ.png',
+        source: 'https://github.com/Wasted-Audio/wstd-eq',
+        price: 'Pay what you want',
+        tags: ['effect', 'eq'],
+        created: '2023-04-23',
+    },
+    {
+        name: 'WSTD 3Q',
+        url: 'https://wasted.audio/software/wstd_3q',
+        image: 'https://wasted.audio/data/software/wstd_3q/WSTD_3Q.png',
+        source: 'https://github.com/Wasted-Audio/wstd-3q',
+        price: 'Pay what you want',
+        tags: ['effect', 'eq'],
+        created: '2023-04-23',
+    },
+    {
+        name: 'WSTD FLANGR',
+        url: 'https://wasted.audio/software/wstd_flangr',
+        image: 'https://wasted.audio/data/software/wstd_flangr/WSTD_FLANGR.png',
+        source: 'https://github.com/Wasted-Audio/wstd-flangr',
+        price: 'Pay what you want',
+        tags: ['effect', 'flanger'],
+        created: '2023-04-23',
+    },
+    {
+        name: 'WSTD FL3NGR',
+        url: 'https://wasted.audio/software/wstd_fl3ngr',
+        image: 'https://wasted.audio/data/software/wstd_fl3ngr/WSTD_FL3NGR.png',
+        source: 'https://github.com/Wasted-Audio/wstd-fl3ngr',
+        price: '€ 13.37',
+        tags: ['effect', 'flanger', 'multiband'],
+        created: '2023-06-27',
+    },
+    {
+        name: 'WSTD DLAY',
+        url: 'https://wasted.audio/software/wstd_dlay',
+        image: 'https://wasted.audio/data/software/wstd_dlay/WSTD_DLAY.png',
+        source: 'https://github.com/Wasted-Audio/wstd-dlay',
+        price: 'Pay what you want',
+        description: 'Simple delay effect plugin.',
+        tags: ['effect', 'delay'],
+        created: '2023-09-02',
+    },
+    {
+        name: 'WSTD DL3Y',
+        url: 'https://wasted.audio/software/wstd_dl3y',
+        image: 'https://wasted.audio/data/software/wstd_dl3y/WSTD_DL3Y.png',
+        source: 'https://github.com/Wasted-Audio/wstd-dl3y',
+        price: '€ 13.37',
+        description: 'Triple band delaying action.',
+        tags: ['effect', 'delay', 'multiband'],
+        created: '2023-09-02',
+    },
+    {
+        name: 'WSTD CRSHR',
+        url: 'https://wasted.audio/software/wstd_crshr',
+        image: 'https://wasted.audio/data/software/wstd_crshr/WSTD_CRSHR.png',
+        source: 'https://github.com/Wasted-Audio/wstd-crshr',
+        price: 'Pay what you want',
+        description: 'Super simple bit reduction.',
+        tags: ['effect', 'bitcrusher'],
+        created: '2023-10-25',
+    },
+    {
+        name: 'WSTD FLDR',
+        url: 'https://wasted.audio/software/wstd_fldr',
+        image: 'https://wasted.audio/data/software/wstd_fldr/WSTD_FLDR.png',
+        source: 'https://github.com/Wasted-Audio/wstd-fldr',
+        price: 'Pay what you want',
+        description: 'Wave folding.',
+        tags: ['effect', 'waveshaper'],
+        created: '2023-10-25',
+    },
+    {
+        name: 'WSTD SMTHR',
+        url: 'https://wasted.audio/software/wstd_smthr',
+        image: 'https://wasted.audio/data/software/wstd_smthr/WSTD_SMTHR.png',
+        source: 'https://github.com/Wasted-Audio/wstd-smthr',
+        price: 'Pay what you want',
+        description: 'Soft-clipping overdrive.',
+        tags: ['effect', 'clipper', 'overdrive'],
+        created: '2023-10-25',
+    },
+    {
+        name: 'WSTD MANGLR',
+        url: 'https://wasted.audio/software/wstd_manglr',
+        image: 'https://wasted.audio/data/software/wstd_manglr/WSTD_MANGLR.png',
+        source: 'https://github.com/Wasted-Audio/wstd-manglr',
+        price: '€ 6.66',
+        description: 'Weird distortion.',
+        tags: ['effect', 'distortion', 'bitcrusher', 'waveshaper', 'clipper', 'overdrive'],
+        created: '2023-10-25',
+    },
+    {
+        name: 'WSTD M3NGLR',
+        url: 'https://wasted.audio/software/wstd_m3nglr',
+        image: 'https://wasted.audio/data/software/wstd_m3nglr/WSTD_M3NGLR.png',
+        source: 'https://github.com/Wasted-Audio/wstd-m3nglr',
+        price: '€ 19.98',
+        description: 'Weird distortion.',
+        tags: ['effect', 'distortion', 'bitcrusher', 'waveshaper', 'clipper', 'overdrive', 'multiband'],
+        created: '2023-11-16',
+    },
+    {
+        name: 'WSTD MSEQ',
+        url: 'https://wasted.audio/software/wstd_mseq',
+        image: 'https://raw.githubusercontent.com/Wasted-Audio/wstd-mseq/refs/heads/master/WSTD_MSEQ.png',
+        source: 'https://github.com/Wasted-Audio/wstd-mseq',
+        price: 'Pay what you want',
+        description: '3 band mid-side EQ with color.',
+        tags: ['effect', 'eq', 'saturation'],
+        created: '2026-05-21',
+    },
+]
+
+export default {
+    apps: apps.map(app => {
+        return { ...common, ...app }
+    }),
+    developer,
+}

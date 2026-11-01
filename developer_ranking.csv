@@ -1,0 +1,448 @@
+position,developer,domain,tranco_rank,category,plugins,other_domains,files
+1,LIM Plugin Collection,unimi.it,8826,institution,1,,misc.js
+2,Audacity team,audacityteam.org,10449,own,1,,tools.js
+3,Fender,fender.com,15021,own,2,,daw.js
+4,ASAP,ircam.fr,17470,institution,8,,asap.js
+5,Muse Group,musescore.org,37980,own,1,,tools.js
+6,Cockos,reaper.fm,46117,own,1,,daw.js
+7,DrumGizmo,drumgizmo.org,56238,own,1,,foss.js
+8,Paul Davis,ardour.org,59854,own,1,,daw.js
+9,LMMS,lmms.io,108173,own,1,,daw.js
+10,IEM,iem.at,143855,own,7,,iem.js
+11,Tracktion,tracktion.com,172300,own,17,,tracktion.js
+12,Bitwig,bitwig.com,180623,own,3,,daw.js
+13,Hexler,hexler.net,220639,own,1,,misc.js
+14,VCV,vcvrack.com,226630,own,1,,foss.js
+15,Modartt,modartt.com,237671,own,3,,misc.js
+16,Renoise,renoise.com,254271,own,1,,tracker.js
+17,ocenaudio team,ocenaudio.com,264576,own,1,,tools.js
+18,TONE3000,tone3000.com,266727,own,1,,misc.js
+19,Punk Labs,punklabs.com,277365,own,6,itch.io,punklabs.js
+20,u-he,u-he.com,280439,own,23,,u-he.js
+21,Matt Tytel,vital.audio,288235,own,2,tytel.org,foss.js
+22,ToneLib,tonelib.net,300848,own,12,,tonelib.js
+23,Hundredrabbits,100r.co,339001,own,1,,tools.js
+24,Tokyo Dawn Records,tokyodawn.net,372995,own,8,,tdr.js
+25,Wavosaur,wavosaur.com,392832,own,1,,misc.js
+26,Hydrogen Team,hydrogen-music.org,416029,own,1,,tools.js
+27,Filipe Coelho (falkTX),kx.studio,459863,own,3,github.com,foss.js tools.js
+28,n-Track,ntrack.com,480433,own,4,,daw.js
+29,Acon Digital,acondigital.com,486899,own,5,,acondigital.js
+30,Kjetil Matheussen,notam02.no,500668,institution,1,,tracker.js
+31,Plogue,plogue.com,520427,own,9,,plogue.js
+32,Decent Samples,decentsamples.com,566923,own,1,,misc.js
+33,Weights,weights.com,585937,own,1,,misc.js
+34,Alexander Zolotov,warmplace.ru,594894,own,1,,tracker.js
+35,Centre for Digital Music,sonicvisualiser.org,622304,own,1,,foss.js
+36,TAL Software,tal-software.com,638279,own,17,,tal.js
+37,Harrison,harrisonaudio.com,713574,own,3,,daw.js tools.js
+37,Harrison Audio,harrisonaudio.com,713574,own,16,,harrison.js
+39,Aodyo Instruments,aodyo.com,877408,own,1,,misc.js
+40,Studiologic,studiologic-music.com,898187,own,1,,misc.js
+41,Audio Damage,audiodamage.com,927742,own,28,,audiodamage.js
+42,JoaCHIP,robotplanet.dk,1016232,own,9,,joachip.js
+43,Manda Audio,powerdrumkit.com,1016886,own,1,,misc.js
+44,Anjok07,ultimatevocalremover.com,1032346,own,1,,foss.js
+45,discoDSP,discodsp.com,1048192,own,8,,discodsp.js
+46,Airwindows,airwindows.com,1072768,own,3,,foss.js
+47,Deltafire,milkytracker.org,1103754,own,1,,tracker.js
+48,AudioThing,audiothing.net,1125580,own,49,,audiothing.js
+49,Tenacity team,tenacityaudio.org,1149472,own,1,,tools.js
+50,Auburn Sounds,auburnsounds.com,1392718,own,8,,auburn.js
+51,Audiomodern,audiomodern.com,1526274,own,1,,misc.js
+52,Alexandros Theodotou,zrythm.org,1537755,own,1,,daw.js
+53,Soundly,getsoundly.com,1568883,own,2,,misc.js
+54,8bitbubsy,16-bits.org,1571392,own,2,,tracker.js
+55,GVST,gvst.co.uk,1588347,own,23,,gvst.js
+56,Audio Assault,audioassault.mx,1593281,own,18,,audioassault.js
+57,Kazrog,kazrog.com,1785889,own,13,,kazrog.js
+58,Ryan Challinor,bespokesynth.com,1803705,own,1,,foss.js
+59,Sinevibes,sinevibes.com,1804159,own,19,,sinevibes.js
+60,Toneboosters,toneboosters.com,1805736,own,17,,toneboosters.js
+61,monocasual laboratories,giadamusic.com,1870199,own,1,,foss.js
+62,mrpapersonic,schismtracker.org,1932878,own,1,,tracker.js
+63,Guitarix,guitarix.org,1937666,own,1,,foss.js
+64,Sonosaurus,sonosaurus.com,1988241,own,1,,foss.js
+65,x42,x42-plugins.com,2021519,own,11,,x42.js
+66,Extent of the Jam,extentofthejam.com,2140242,own,1,,foss.js
+67,Chowdhury DSP,chowdsp.com,2196183,own,7,,chowdsp.js
+68,Autodafe,autodafe.net,2205272,own,3,,misc.js
+69,Calf Studio Gear,calf-studio-gear.org,2275340,own,50,,calfstudiogear.js
+70,Linux Studio Plugins,lsp-plug.in,2319954,own,57,,lsp.js
+71,Illformed,illformed.com,2439832,own,1,,misc.js
+72,Christian Loos,tunefish-synth.com,2741599,own,1,,foss.js
+73,igorski,igorski.nl,2747992,own,8,,igorski.js
+74,DDMF,ddmf.eu,2762581,own,22,,ddmf.js
+75,Spectre Digital,spectredigital.com,2812937,own,2,,misc.js
+76,BLEASS,bleass.com,2826772,own,1,,misc.js
+77,SocaLabs,socalabs.com,2846560,own,22,,socalabs.js
+78,direct.audio,minimeters.app,2859548,own,1,,misc.js
+79,Sampleson,sampleson.com,2865172,own,1,,misc.js
+80,Ugritone,ugritone.com,2865987,own,1,,misc.js
+81,Rui Nuno Capela,qtractor.org,2897846,own,5,sourceforge.io,ruinunocapela.js
+82,Tweakbench,tweakbench.com,2932301,own,35,,tweakbench.js
+83,Jonas Eriksson,erikssonjonas.com,3114041,own,1,,misc.js
+84,TheWaveWarden,thewavewarden.com,3278316,own,2,,foss.js misc.js
+85,CWITEC AB,tx16wx.com,3282685,own,2,,misc.js
+86,HY-Plugins,hy-plugins.com,3356533,own,7,,hyplugins.js
+87,Sudara,melatonin.dev,3493277,own,1,,misc.js
+88,Anukari,anukari.com,3554634,own,1,,misc.js
+89,Peter Rudenko,helio.fm,3599247,own,1,,daw.js
+90,The Him DSP,thehim.com,3656340,own,3,,thehim.js
+91,Aurora DSP,auroradsp.com,3674090,own,3,,auroradsp.js
+92,StAkira,openutau.com,3745487,own,1,,tools.js
+93,Decomposer,decomposer.de,3818983,own,1,,misc.js
+94,Dexibell,dexibell.com,3852252,own,2,,misc.js
+95,ZAK Sound,zaksound.com,3986995,own,6,,misc.js
+96,Way Music,way.net,4141439,own,1,,foss.js
+97,Ocean Swift Synthesis,oceanswift.net,4315789,own,2,,misc.js
+98,apulSoft,apulsoft.ch,4471318,own,6,,apulsoft.js
+99,BleuBleu,famistudio.org,4481710,own,1,,foss.js
+100,APU Software,apu.software,4496307,own,8,,apu.js
+101,Korneff Audio,korneffaudio.com,4510745,own,5,,korneffaudio.js
+,091Audio,091audio.de,,own,1,,misc.js
+,13X Audio,13x.audio,,own,2,,misc.js
+,23DSP,23dsp.com,,own,2,,misc.js
+,4bite,4bite.dev,,own,1,,misc.js
+,Ablaze,ablazeaudio.com,,own,7,,ablaze.js
+,Accretion Audio,accretion.audio,,own,1,,misc.js
+,ACMT,acmt.co.uk,,own,21,,acmt.js
+,AethisDSP,aethisdsp.com,,own,1,,misc.js
+,Algonaut,algonaut.audio,,own,1,,misc.js
+,Anode Labs,anode-labs.com,,own,1,,misc.js
+,AP Mastering,apmastering.com,,own,6,,apmastering.js
+,Apisonic Audio,apisonic-audio.com,,own,3,,apisonicaudio.js
+,Applicaudia,strobopro.se,,own,1,,misc.js
+,Arboreal Audio,arborealaudio.com,,own,3,,arborealaudio.js
+,Arden Butterfield,wildergardenaudio.com,,own,1,,foss.js
+,Arswerk,arswerk.it,,own,3,,misc.js
+,Arthur Freye & Jannis Müller,qsynthi.com,,own,1,,foss.js
+,Arthur Poiret,owlplug.com,,own,1,,tools.js
+,atkAudio,atkaudio.com,,own,5,,atkaudio.js
+,Audio Blast,audioblast.me,,own,9,,audioblast.js
+,AudioMap,audiomap.net,,own,1,,misc.js
+,audiosingularity,audiosingularity.com,,own,4,,audiosingularity.js
+,Audiowavez,audiowavez.com,,own,2,,misc.js
+,auDYo engineering,audyo-engineering.com,,own,4,,audyoengineering.js
+,AuraDev,auradev.org,,own,1,,misc.js
+,Aviary Audio,aviaryaudio.com,,own,1,,misc.js
+,Bertom Audio,bertomaudio.com,,own,6,,bertomaudio.js
+,Big Man Labs,bigman-labs.com,,own,6,,bigmanlabs.js
+,Big Z Studios,bigzstudios.com,,own,1,,misc.js
+,Bird's,birdsthings.com,,own,1,,misc.js
+,Birdsong,birdsong.nyc,,own,1,,misc.js
+,Bitsonic,vstplug-ins.com,,own,8,,bitsonic.js
+,BlauKraut Engineering,blaukraut.info,,own,1,,misc.js
+,blepfx,amee.ee,,own,4,,misc.js
+,BlueLab,bluelab-plugins.com,,own,3,,foss.js
+,BLZ,sbrk.org,,own,3,,misc.js
+,Bom Shanka Machines,bomshankamachin.es,,own,7,,bomshankamachines.js
+,Box of Rules,boxofrules.com,,own,2,,misc.js
+,Bruce James,brucejames.studio,,own,11,,brucejames.js
+,Budrin Labs,budrinlabs.com,,own,2,,misc.js
+,bzarvin,bzarvin.com,,own,1,,misc.js
+,C.H.A.I.R.,chair.audio,,own,4,,chair.js
+,calloga,calloga.com,,own,1,,foss.js
+,Candela Audio,candelaaudio.com,,own,2,,misc.js
+,Central Processing Unit,cpurecords.net,,own,2,,misc.js
+,ChromaDSP,chromadsp.com,,own,1,,foss.js
+,Circuit Haze,circuit-haze.com,,own,1,,misc.js
+,Clack.DIGITAL,clack.digital,,own,3,,misc.js
+,ConjureDSP,conjuredsp.com,,own,1,,misc.js
+,consint,consint.net,,own,3,,foss.js
+,coolfacilities,coolfacilities.org,,own,1,,misc.js
+,CRQL,crql.works,,own,4,,crql.js
+,Cut Through Recordings,cutthroughrecordings.com,,own,7,,cutthroughrecordings.js
+,Dan German,soonth.com,,own,1,,foss.js
+,Dario Mambro,unevens.net,,own,2,,foss.js
+,Darkpalace Studio,darkpalace.studio,,own,6,,darkpalace.js
+,Dehli Musikk,dehlimusikk.no,,own,2,,foss.js
+,Different Instruments,differentinstruments.com,,own,1,,misc.js
+,Dillon Bastan,dillonbastan.com,,own,2,,misc.js
+,Dimethoxy Audio,dimethoxy.com,,own,2,,foss.js
+,Dropshot Audio,dropshotaudio.com,,own,1,,misc.js
+,Dry Audio,dry.audio,,own,1,,misc.js
+,DsgDnB,dsgdnb.com,,own,5,github.com,dsgdnb.js
+,dumumub,dumumub.com,,own,1,,foss.js
+,Dusk Audio,duskaudio.com,,own,10,github.io,duskaudio.js
+,Eikrem Audio,eikremaudio.com,,own,1,,misc.js
+,Elephant DSP,elephantdsp.com,,own,1,,foss.js
+,EMR Music Group,emrmusicgroup.com,,own,1,,daw.js
+,End of the World Plugins,endoftheworldplugins.com,,own,3,,misc.js
+,Ewan Bristow,ewanbristow.com,,own,1,,misc.js
+,Fabula Audio,fabulaaudio.com,,own,1,,misc.js
+,Floe,floe.audio,,own,1,,foss.js
+,Fopull,fopull.com,,own,1,,misc.js
+,Fors,fors.fm,,own,5,,fors.js
+,FRCTL Audio,frctlaudio.com,,own,9,,frctlaudio.js
+,FreqElement,freqelement.com,,own,1,,misc.js
+,Full FX Media,fullfxmedia.com,,own,4,,foss.js misc.js
+,FX-Mechanics,fx-mechanics.com,,own,16,,fxmechanics.js
+,Greybox Audio,greyboxaudio.com,,own,1,,foss.js
+,Growl Audio,growl-audio.com,,own,1,,misc.js
+,GuitarML,guitarml.com,,own,7,,guitarml.js
+,Hansen Audio,hansen-audio.org,,own,1,,misc.js
+,Hardwave Studios,hardwavestudios.com,,own,1,,misc.js
+,Higher Plane,higher-plane.uk,,own,1,,misc.js
+,Hyperfocus DSP,hyperfocusdsp.com,,own,1,,foss.js
+,iamlamprey,iamlamprey.com,,own,1,,foss.js
+,Iftah Gabbai,if-tah.com,,own,1,,misc.js
+,Inertia Sound Systems,inertiasoundsystems.com,,own,3,,inertia.js
+,Infinite Digits,infinitedigits.co,,own,3,amenbreakvst.com,misc.js
+,Inphonik,inphonik.com,,own,4,,inphonik.js
+,Insert Audio,insertapp.io,,own,7,,insertaudio.js
+,ISIVIS,isivisi.ca,,own,1,,misc.js
+,Isorek,isorek.com,,own,4,,isorek.js
+,Ivy Audio,ivyaudio.com,,own,1,,foss.js
+,Izmar Verhage,izmar.nl,,own,1,,foss.js
+,James H Ball,osci-render.com,,own,1,,foss.js
+,JAS-I,jas-i.com,,own,1,,misc.js
+,Javier Sanchez,node97.com,,own,1,,misc.js
+,Jerome Lelasseux,jjazzlab.org,,own,1,,tools.js
+,Joakim Frostegård,octasine.com,,own,1,,foss.js
+,Jol Tai,reflection-daw.com,,own,1,,tools.js
+,Jon Skarin,dyrekreds.dk,,own,1,,foss.js
+,Jonas Grunau,open-audio-analyzer.com,,own,1,,foss.js
+,Kafka Studios,kafkastudios.com,,own,1,,misc.js
+,Klangfreund,klangfreund.com,,own,2,,misc.js
+,Kreuzberg Audio,kreuzberg-audio.com,,own,11,,kreuzbergaudio.js
+,Kushview,kushview.net,,own,1,,foss.js
+,LAP Plugin,lap-plugin.com,,own,2,,misc.js
+,Lectric Panda,lectricpanda.com,,own,2,,misc.js
+,Leit Audio,leitaudio.com,,own,3,,leitaudio.js
+,LHI Audio,lhiaudio.com,,own,2,,misc.js
+,Libre Wave,librewave.com,,own,2,,foss.js
+,Loomer,loomer.co.uk,,own,7,,loomer.js
+,M Media Audio,mmediaaudio.com,,own,48,,mmediaaudio.js
+,Maniac Audio,maniacaudiovst.com,,own,23,,maniacaudio.js
+,Manifest Audio,manifest.audio,,own,3,,manifestaudio.js
+,MANNIX²,mannixsquared.com,,own,8,,mannixsquared.js
+,Mannix²,mannixsquared.com,,own,1,,misc.js
+,Martillolaud,martillolaud.com,,own,6,,martillolaud.js
+,Master Tones,master-tones.com,,own,1,,misc.js
+,Matari Audio,matari-audio.com,,own,1,,tools.js
+,Mensla,mensla.com,,own,4,,misc.js
+,Michael Angulo,pyfessional.tech,,own,1,,foss.js
+,midilab,midilab.co,,own,1,,foss.js
+,MKS Mixing,mksmixing.com,,own,1,,misc.js
+,MOK,mok.com,,own,3,,misc.js
+,Moonstop Software Ltd,chordwatch.com,,own,1,,misc.js
+,Morphulus,morphulus.com,,own,1,,misc.js
+,Mosyl Audio,mosylaudio.com,,own,1,,misc.js
+,MousePlugins,mouseplugins.com,,own,11,,mouseplugins.js
+,mtyas.plugins,mtyas.com,,own,6,,mtyasplugins.js
+,mucoder,mucoder.net,,own,1,,misc.js
+,Musical Entropy,musicalentropy.com,,own,3,,misc.js
+,My Father's Cravat,myfatherscravat.com,,own,2,,misc.js
+,Nathaniel Wing Production,nathanielwing.com,,own,5,,nathanielwing.js
+,nClear,nclear.pro,,own,4,,nclear.js
+,Nicolas Morin,1bitdragon.com,,own,1,,tools.js
+,Nils Schneider,nilsschneider.de,,own,1,,misc.js
+,Node Audio,entonal.studio,,own,2,node.audio,misc.js
+,NoirSonance,noirsonance.com,,own,6,,noirsonance.js
+,Nornec,midinous.com,,own,1,,misc.js
+,OA Labs,oa-labs.com,,own,1,,misc.js
+,Odd Duck Audio,oddduckaudio.com,,own,12,,oddduckaudio.js
+,Ohlhorst Digital,ohlhorstdigital.com,,own,5,,ohlhorstdigital.js
+,PAA Audio,paa-audio.de,,own,6,,paaaudio.js
+,Pavel Smokotnin,opensoundmeter.com,,own,1,,foss.js
+,Plugdata Team,plugdata.org,,own,1,,tools.js
+,Polarity,polarity.productions,,own,5,,polarity.js
+,PotenzaDSP,potenzadsp.com,,own,1,,misc.js
+,Quamplex,quamplex.com,,own,2,,foss.js
+,Ravetracer,ravetracer.de,,own,14,,ravetracer.js
+,Remanence Audio,remanenceaudio.com,,own,1,,misc.js
+,ReplicatAudio,replicataudio.com,,own,4,itch.io,misc.js
+,Retornz,retornz.com,,own,1,,misc.js
+,REVST,revstaudio.com,,own,4,,misc.js
+,Room360 Audio,room360plugin.com,,own,1,,misc.js
+,RV Audio Design,rvaudiodesign.com,,own,1,,misc.js
+,Sandyne,sandyne.com,,own,1,,daw.js
+,Sequins,sequins.music,,own,2,,misc.js
+,SessionLoops,sessionloops.com,,own,1,,foss.js
+,Shift Line,shift-line.com,,own,3,,misc.js
+,Shy Audio,shy-audio.com,,own,4,,shyaudio.js
+,Signal Perspective,signalperspective.com,,own,3,,misc.js
+,Sinuslabs,sinuslabs.io,,own,3,,sinuslabs.js
+,Smao Lab,smaolab.org,,own,10,,smaolab.js
+,Sognevo,sognevo.com,,own,3,,foss.js
+,Sojus Records,sojusrecords.com,,own,1,,foss.js
+,Sononym,sononym.net,,own,1,,tools.js
+,Stefan Westerfeld,spectmorph.org,,own,1,,foss.js
+,Steffen Baranowsky,nextstudio-daw.org,,own,1,,foss.js
+,Stillwell Audio,stillwellaudio.com,,own,23,,stillwellaudio.js
+,Strange Audio,strange-audio.com,,own,2,,misc.js
+,Studio Neutrino,studio-neutrino.com,,own,1,,misc.js
+,Studio9 Plugins,recordingstudio9.com,,own,4,,studio9plugins.js
+,Study Sound Audio,studysoundaudio.com,,own,1,,misc.js
+,subz3ro,adlibtracker.net,,own,1,,tracker.js
+,SuperflyDSP,superflydsp.com,,own,9,,superflydsp.js
+,Surge Synth Team,surge-synth-team.org,,own,3,github.com github.io,foss.js surge.js
+,Ternär Music Technology,ternar.tech,,own,4,,misc.js
+,tildearrow,tildearrow.org,,own,1,,tracker.js
+,Tim Krause,twkrause.ca,,own,1,,foss.js
+,Timerift,timerift-audio.org,,own,1,,misc.js
+,timerift-audio,timerift-audio.org,,own,1,,misc.js
+,Timothy Schoen,plugdata.org,,own,1,,tools.js
+,Tomasz Głuc,omnidaw.com,,own,1,,misc.js
+,UB DSP,ubdsp.com,,own,2,,misc.js
+,Ultramaster,kayrock.org,,own,1,,foss.js
+,Unglued,unglued.co.uk,,own,1,,misc.js
+,UnplugRed,unplug.red,,own,15,,unplug-red.js
+,Uryan Audio,uryanmodular.com,,own,5,,uryanaudio.js
+,Vain Audio,vainaudio.com,,own,1,,misc.js
+,Venn Audio,vennaudio.com,,own,1,,misc.js
+,Venomode,venomode.com,,own,7,,misc.js venomode.js
+,Viiri Audio,viiri-audio.com,,own,1,,misc.js
+,VisiStage,visistage.com,,own,1,,misc.js
+,Voidstar Audio,voidstaraudio.com,,own,1,,misc.js
+,VZtec,vztecfx.com,,own,4,,vztec.js
+,Warmth,warmth.dev,,own,9,,warmth.js
+,Wasted Audio,wasted.audio,,own,12,,wastedaudio.js
+,Wavefold Labs,wavefoldlabs.com,,own,2,,misc.js
+,Webprofusion,soundshed.com,,own,1,,misc.js
+,WET VST,wetvst.com,,own,8,,wetvst.js
+,What Is Software,whatissoftware.studio,,own,3,,misc.js
+,White Elephant Audio,whiteelephantaudio.com,,own,5,,white-elephant-audio.js
+,Wire Grind Audio,wiregrind.com,,own,2,,misc.js
+,Xavier Godart (emprcl),empr.cl,,own,1,,foss.js
+,Xeni Audio,xeni-audio.com,,own,6,,xeniaudio.js
+,Xtractpler,xtractpler.com,,own,1,,misc.js
+,Ygg Audio,yggdrasilrecords.net,,own,2,,yggaudio.js
+,Under The Mask,google.com,1,shared,1,,foss.js
+,Aaron Anderson ,github.com,34,shared,1,,foss.js
+,AIDA DSP,github.com,34,shared,1,,foss.js
+,Anarchy-music,github.com,34,shared,1,,foss.js
+,AnClark,github.com,34,shared,4,,anclark.js
+,Andrew Fader,github.com,34,shared,2,,foss.js
+,Ardura,github.com,34,shared,3,,foss.js
+,Astriid,github.com,34,shared,1,,foss.js
+,Atakan Unsever,github.com,34,shared,1,,foss.js
+,Aurelien Leblond,github.com,34,shared,1,,foss.js
+,baconpaul,github.com,34,shared,2,,foss.js
+,Billy Messenger,github.com,34,shared,1,,foss.js
+,bogggare567,github.com,34,shared,1,,foss.js
+,Bruno Unna,github.com,34,shared,1,,foss.js
+,Damien Ronssin,github.com,34,shared,1,,foss.js
+,Dan Slapelis,github.com,34,shared,1,,foss.js
+,Daniel Wray,github.com,34,shared,2,,foss.js
+,DatanoiseTV,github.com,34,shared,3,,foss.js
+,Dougal Stewart,github.com,34,shared,1,,foss.js
+,dsmaugy,github.com,34,shared,1,,foss.js
+,Fabio Lima,github.com,34,shared,2,,foss.js
+,Fadedlimes,github.com,34,shared,3,,foss.js
+,Fear Escape,github.com,34,shared,1,,misc.js
+,Florian Mrugalla,github.com,34,shared,1,,foss.js
+,Gabriel Soule,github.com,34,shared,1,,foss.js
+,Gahel,github.com,34,shared,1,,foss.js
+,GareBear99,github.com,34,shared,1,,foss.js
+,Geert Bevin,github.com,34,shared,1,,foss.js
+,Giulio Zausa,github.com,34,shared,1,,foss.js
+,Greg Recco,github.com,34,shared,1,,foss.js
+,hergezod,github.com,34,shared,2,,foss.js
+,Hermann,github.com,34,shared,5,,foss.js
+,httpsworldview,github.com,34,shared,1,,foss.js
+,InToEtherion,github.com,34,shared,1,,foss.js
+,Joep Vanlier,github.com,34,shared,1,,foss.js
+,Jonathan Higgins,github.com,34,shared,1,,foss.js
+,JoseDiazRohena,github.com,34,shared,1,,foss.js
+,Justin Ehrlichman,github.com,34,shared,1,,foss.js
+,KarmaGame,github.com,34,shared,1,,tools.js
+,Klaus Scheuermann,github.com,34,shared,2,,foss.js
+,Kyle Ramsey ,github.com,34,shared,1,,foss.js
+,Lets Dig,github.com,34,shared,1,,foss.js
+,magnetophon,github.com,34,shared,2,,foss.js
+,ManasWolrd,github.com,34,shared,3,github.io,foss.js
+,Mark12870,github.com,34,shared,1,,foss.js
+,Martin Zuther,github.com,34,shared,2,,foss.js
+,Matthijs Hollemans,github.com,34,shared,1,,foss.js
+,Mauro Cosentino,github.com,34,shared,1,,foss.js
+,Mike Oliphant,github.com,34,shared,1,,foss.js
+,OTODESK,github.com,34,shared,5,,otodesk.js
+,p-hlp,github.com,34,shared,1,,foss.js
+,Piotr Jochymek,github.com,34,shared,1,,tools.js
+,Polygon,github.com,34,shared,1,,foss.js
+,Quentin Faidide,github.com,34,shared,1,,foss.js
+,rbmannchued,github.com,34,shared,1,,foss.js
+,reillypascal,github.com,34,shared,1,,foss.js
+,Rob Clouth,github.com,34,shared,1,,foss.js
+,Robbert van der Helm,github.com,34,shared,1,,foss.js
+,Ross Audio,github.com,34,shared,1,,foss.js
+,Sean Bolton,github.com,34,shared,1,,foss.js
+,sjaehn,github.com,34,shared,2,,foss.js
+,Sjoerd van Kreel,github.com,34,shared,2,,foss.js
+,Skynse,github.com,34,shared,1,,foss.js
+,smiarx,github.com,34,shared,1,,foss.js
+,SolidFuel,github.com,34,shared,2,,foss.js
+,Tehguitarist,github.com,34,shared,1,,foss.js
+,tehguitarist,github.com,34,shared,1,,foss.js
+,TiagoLr,github.com,34,shared,8,,tiagolr.js
+,tobanteAudio,github.com,34,shared,1,,foss.js
+,vivekvjyn,github.com,34,shared,1,,foss.js
+,Vladyslav Voinov,github.com,34,shared,1,,foss.js
+,Wolf Plugins,github.com,34,shared,2,github.io,foss.js
+,Wouter Hisschemöller,github.com,34,shared,1,,foss.js
+,Yifeng (Jerry),github.com,34,shared,1,,foss.js
+,NaLex Plugins,blogspot.com,89,shared,2,,misc.js
+,Daniel Moura,wordpress.com,99,shared,1,,foss.js
+,The Usual Suspects,wordpress.com,99,shared,6,,usualsuspects.js
+,Artem Popov,github.io,135,shared,1,,foss.js
+,Arthur Benilov,github.io,135,shared,1,,foss.js
+,Attila Magyar,github.io,135,shared,2,,foss.js
+,BambooTracker,github.io,135,shared,1,,tracker.js
+,Binyamin Friedman,github.io,135,shared,1,,foss.js
+,Brady Boettcher,github.io,135,shared,1,,foss.js
+,Casey Mulcahy,github.io,135,shared,1,,tracker.js
+,Dmitry Khrykin,github.io,135,shared,1,,foss.js
+,Henrik Enquist,github.io,135,shared,1,,tools.js
+,Jussi Lind,github.io,135,shared,1,,tracker.js
+,Main St Audio Labs,github.io,135,shared,5,,mainstaudiolabs.js
+,Michael Willis,github.io,135,shared,1,,foss.js
+,Mike O,github.io,135,shared,1,,foss.js
+,Nick Dowell,github.io,135,shared,1,,foss.js
+,Pascal Gauthier,github.io,135,shared,1,,foss.js
+,Peter Semiletov,github.io,135,shared,3,,foss.js
+,ryukau,github.io,135,shared,2,,foss.js
+,Sunbunny,github.io,135,shared,3,gumroad.com,misc.js
+,tucktuckg00se,github.io,135,shared,1,,foss.js
+,ZL Audio,github.io,135,shared,4,,foss.js
+,danielravina,pages.dev,180,shared,1,,foss.js
+,Nazaray,steampowered.com,297,shared,1,,misc.js
+,Dave Griffiths,gitlab.com,374,shared,1,,foss.js
+,DirektDSP,itch.io,723,shared,1,,foss.js
+,iraisynn attinom,itch.io,723,shared,1,,misc.js
+,Plasmatic,itch.io,723,shared,1,,foss.js
+,Thomas Trenkwalder,itch.io,723,shared,1,,misc.js
+,Jesus Oyola,patreon.com,935,shared,2,,misc.js
+,Vanishing Star,note.com,939,shared,1,,misc.js
+,Jun Murakami,web.app,2673,shared,6,,foss.js
+,Air-G Audio,ko-fi.com,2697,shared,10,,airg.js misc.js
+,TheOnlyWaveforms,ko-fi.com,2697,shared,1,,misc.js
+,Trebless,ko-fi.com,2697,shared,1,,misc.js
+,(un)familiar,gumroad.com,2925,shared,1,,foss.js
+,Bram,gumroad.com,2925,shared,5,,bram.js
+,Jon V Audio,gumroad.com,2925,shared,1,,misc.js
+,Mike Moreno DSP,gumroad.com,2925,shared,1,,foss.js
+,Nebula Audio,gumroad.com,2925,shared,4,,nebulaaudio.js
+,Rick Taylor (Modular Samples),gumroad.com,2925,shared,3,,foss.js
+,RiverFlux Audio,gumroad.com,2925,shared,4,,riverfluxaudio.js
+,Soft Loop Audio,gumroad.com,2925,shared,1,,misc.js
+,StompTones,gumroad.com,2925,shared,25,,stomptones.js
+,tugrulakyuz,gumroad.com,2925,shared,1,,misc.js
+,ViatorDSP,gumroad.com,2925,shared,1,,misc.js
+,agrigolo,codeberg.org,3547,shared,1,,tools.js
+,attackallmonsters,codeberg.org,3547,shared,1,,foss.js
+,RubberPlayer,codeberg.org,3547,shared,1,,foss.js
+,yimrakhee,codeberg.org,3547,shared,10,,foss.js yimrakhee.js
+,KuramaSound,buymeacoffee.com,4115,shared,1,,foss.js
+,Nakst,gitlab.io,4279,shared,6,,nakst.js
+,Oto Šťáva,gitlab.io,4279,shared,1,,foss.js
+,ZynAddSubFX,sourceforge.io,6129,shared,1,,foss.js
+,Factor8,lemonsqueezy.com,23877,shared,1,,misc.js
+,ArtV audio,kvraudio.com,46006,shared,1,,foss.js
+,audiodev.blog,kvraudio.com,46006,shared,1,,misc.js
+,Dub Forge,kvraudio.com,46006,shared,1,,misc.js
+,EAS Audio,kvraudio.com,46006,shared,1,,misc.js
+,John Crosby Acoustics,kvraudio.com,46006,shared,1,,misc.js
+,Noizebox Industries,kvraudio.com,46006,shared,1,,misc.js
+,Lost Robot,nekoweb.org,105885,shared,1,,misc.js

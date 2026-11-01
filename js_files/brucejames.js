@@ -1,0 +1,116 @@
+const common = {
+    developer: 'Bruce James',
+    formats: ['clap', 'vst3'],
+}
+
+const apps = [
+    {
+        name: 'DeepPerfection',
+        description: 'Phase correction in the low end.',
+        url: 'https://www.brucejames.studio/downloads/deepperfection',
+        image: 'https://www.brucejames.studio/plugin-deepperfection.png',
+        tags: ['effect', 'bass'],
+        badges: [ 'tested-working' ],
+        price: '$ 49.99',
+        created: '2026-07-03',
+    },
+    {
+        name: 'longDivision',
+        description: 'Stereo widener with filtering and modulation.',
+        url: 'https://www.brucejames.studio/downloads/longdivision',
+        image: 'https://www.brucejames.studio/plugin-longdivision.png',
+        tags: ['effect', 'stereo'],
+        badges: [ 'tested-working' ],
+        price: '$ 29.99',
+        created: '2026-07-03',
+    },
+    {
+        name: 'Planar',
+        description: 'Spectral balancer to target curve.',
+        url: 'https://www.brucejames.studio/downloads/planar',
+        image: 'https://www.brucejames.studio/plugin-planar.png',
+        tags: ['effect', 'spectral'],
+        badges: [ 'tested-working' ],
+        price: '$ 29.99',
+        created: '2026-07-03',
+    },
+    {
+        name: 'SlushBus',
+        description: 'Bus compression and expansion.',
+        url: 'https://www.brucejames.studio/downloads/slushbus',
+        image: 'https://www.brucejames.studio/plugin-slushbus.png',
+        tags: ['effect', 'compressor', 'expander'],
+        badges: [ 'tested-working' ],
+        price: '$ 14.99',
+        created: '2026-07-03',
+    },
+    {
+        name: 'Marco',
+        description: 'Stereo placement with mono low end.',
+        url: 'https://brucejames.studio/downloads/marco',
+        image: 'https://brucejames.studio/plugin-marco.png',
+        tags: ['effect', 'stereo'],
+        price: '$ 29.99',
+        created: '2026-07-23',
+    },
+    {
+        name: 'Polo',
+        description: 'Room simulator allowing all tracks to be placed in the same environment.',
+        url: 'https://brucejames.studio/downloads/polo',
+        image: 'https://brucejames.studio/plugin-polo.png',
+        tags: ['effect', 'stereo', 'reverb'],
+        price: '$ 39.99',
+        created: '2026-07-23',
+    },
+    {
+        name: 'Slursh',
+        description: 'Multiband clipper.',
+        url: 'https://www.brucejames.studio/downloads/slursh',
+        image: 'https://www.brucejames.studio/plugin-slursh.png',
+        tags: ['effect', 'clipper', 'multiband'],
+        price: '$ 29.99',
+        created: '2026-07-25',
+    },
+    {
+        name: 'YouAreNotCrazy',
+        description: 'Utility to measure timing differences between tracks.',
+        url: 'https://www.brucejames.studio/downloads/youarenotcrazy',
+        image: 'https://static.kvraudio.com/i/b/screenshot-2026-06-12-001713.png',
+        tags: ['tool'],
+        price: 'No charge',
+        created: '2026-07-25',
+    },
+    {
+        name: 'MDA',
+        description: 'Up to 16 interactive buses of compression.',
+        url: 'https://www.brucejames.studio/downloads/mda',
+        image: 'https://www.brucejames.studio/plugin-mda.png',
+        tags: ['effect', 'compressor'],
+        price: '$ 49.99',
+        created: '2026-08-04',
+    },
+    {
+        name: 'GreatWallOfSound',
+        description: 'Spectral ducker interacting between instances.',
+        url: 'https://www.brucejames.studio/downloads/greatwallofsound',
+        image: 'https://www.brucejames.studio/plugin-greatwallofsound.png',
+        tags: ['effect', 'ducker', 'spectral'],
+        price: '$ 49.99',
+        created: '2026-08-21',
+    },
+    {
+        name: 'Precognition Dynamics',
+        url: 'https://www.brucejames.studio/downloads/precognitiondynamics',
+        image: 'https://www.brucejames.studio/plugin-precognitiondynamics.webp',
+        price: '$ 29.99',
+        tags: ['effect', 'limiter', 'mastering'],
+        created: '2026-09-18',
+    },
+]
+
+export default {
+    apps: apps.map(app => {
+        return { ...common, ...app }
+    }),
+}
+

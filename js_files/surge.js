@@ -1,0 +1,35 @@
+export default [
+    {
+        name: 'Surge XT',
+        developer: 'Surge Synth Team',
+        url: 'https://surge-synthesizer.github.io/',
+        image: 'https://surge-synthesizer.github.io/images/manual/Pictures/surge_dark.png',
+        source: 'https://github.com/surge-synthesizer/surge',
+        price: 'No charge',
+        tags: ['synth', 'subtractive', 'wavetable'],
+        formats: ['standalone', 'lv2', 'vst3', 'clap', 'vst2'],
+        license: 'GPL-3.0',
+        created: '2022-12-30',
+        // crawl: {
+        //     engine: 'fetch',
+        //     tasks: [{
+        //         target: 'version',
+        //         el: '#download_link',
+        //         next: true,
+        //         match: 'XT (\\d{1,2}\\.\\d{1,2}\\.\\d{1,2})',
+        //     }],
+        // },
+    },
+    {
+        name: 'Monique Monosynth',
+        developer: 'Surge Synth Team',
+        url: 'https://surge-synth-team.org/monique/',
+        image: 'https://surge-synth-team.org/_astro/monique.iKiWZ-tr_6l8x9.png',
+        source: 'https://github.com/surge-synthesizer/monique-monosynth',
+        price: 'No charge',
+        tags: ['synth', 'subtractive'],
+        formats: ['standalone', 'vst3', 'clap'],
+        license: 'GPL-3.0',
+        created: '2022-12-30',
+    },
+]
